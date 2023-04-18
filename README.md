@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Just another teen endorsing web develpment and next js
 NEXT JS
 
 
